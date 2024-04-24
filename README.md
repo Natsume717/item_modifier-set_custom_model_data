@@ -1,8 +1,7 @@
 # item_modifier-set_custom_model_data
 item_modifierの1項目であるset_custom_model_dataのサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】set_custom_model_dataでテクスチャを変更【item_modifier】](https://natsumake.com/item_modifier-set_custom_model_data/)』を参考にしてください。
 
 <h3>概要</h3>
 CustomModelDataの値をアイテムに対して指示することが出来ます
