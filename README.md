@@ -1,0 +1,2 @@
+# item_modifier-set_custom_model_data
+item_modifierの1項目であるset_custom_model_dataのサンプルになります。
